@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Bakso",
+        "price": 15000.0,
+        "stock": 10
+    },
+    {
+        "name": "Mie Ayam",
+        "price": 12000.0,
+        "stock": 15
+    },
+    {
+        "name": "Es Teh",
+        "price": 5000.0,
+        "stock": 20
+    }
+] 
